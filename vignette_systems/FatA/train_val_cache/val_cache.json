@@ -1,0 +1,3982 @@
+{
+    "_type": "ValidationDatasetCache",
+    "name": "FatA_dataset_ft1.0",
+    "structure_data": {
+        "4209b": {
+            "release_date": "2025-10-03",
+            "resolution": 1.58,
+            "token_count": 297,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1163b_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4209b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "1",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_1",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "x411-a": {
+            "release_date": "1970-01-01",
+            "resolution": 1.886,
+            "token_count": 303,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "x411-a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "x411-a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "2",
+                    "cluster_size": 1,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_2",
+                    "cluster_size": 1,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4058b": {
+            "release_date": "2025-09-12",
+            "resolution": 1.98,
+            "token_count": 301,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1164b_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4058b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "3",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_3",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4083b": {
+            "release_date": "2025-09-12",
+            "resolution": 1.429,
+            "token_count": 302,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1163a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4083b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "4",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_4",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4198a": {
+            "release_date": "2025-10-03",
+            "resolution": 1.7,
+            "token_count": 299,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1163a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4198a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "5",
+                    "cluster_size": 4,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_5",
+                    "cluster_size": 4,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4223c": {
+            "release_date": "2025-10-03",
+            "resolution": 1.64,
+            "token_count": 306,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1147a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4223c_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "6",
+                    "cluster_size": 6,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_6",
+                    "cluster_size": 6,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4172a": {
+            "release_date": "2025-09-12",
+            "resolution": 2.171,
+            "token_count": 308,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1163a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4172a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "7",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_7",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4155a": {
+            "release_date": "2025-09-12",
+            "resolution": 1.621,
+            "token_count": 306,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1524a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4155a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "8",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_8",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4068a": {
+            "release_date": "2025-09-12",
+            "resolution": 1.658,
+            "token_count": 301,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1163a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4068a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "9",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_9",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "x423-a": {
+            "release_date": "1970-01-01",
+            "resolution": 1.76,
+            "token_count": 310,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "x423-a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "x423-a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "10",
+                    "cluster_size": 1,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_10",
+                    "cluster_size": 1,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4216b": {
+            "release_date": "2025-10-03",
+            "resolution": 1.5,
+            "token_count": 301,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1163b_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4216b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "11",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_11",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4170b": {
+            "release_date": "2025-10-03",
+            "resolution": 2.14,
+            "token_count": 306,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1147a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4170b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "12",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_12",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4024a": {
+            "release_date": "2025-10-03",
+            "resolution": 1.42,
+            "token_count": 304,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1163b_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4024a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "13",
+                    "cluster_size": 7,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_13",
+                    "cluster_size": 7,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4138a": {
+            "release_date": "2025-10-03",
+            "resolution": 1.81,
+            "token_count": 300,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1163a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4138a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "14",
+                    "cluster_size": 4,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_14",
+                    "cluster_size": 4,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4014a": {
+            "release_date": "2025-09-09",
+            "resolution": 1.44,
+            "token_count": 308,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1164b_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4014a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "15",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_15",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4024e": {
+            "release_date": "2025-10-03",
+            "resolution": 1.42,
+            "token_count": 304,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1163b_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4024e_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "13",
+                    "cluster_size": 7,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_13",
+                    "cluster_size": 7,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4059b": {
+            "release_date": "2026-07-28",
+            "resolution": 1.83,
+            "token_count": 298,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1163b_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4059b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "16",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_16",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4138c": {
+            "release_date": "2025-10-03",
+            "resolution": 1.81,
+            "token_count": 300,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1164b_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4138c_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "14",
+                    "cluster_size": 4,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_14",
+                    "cluster_size": 4,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4059a": {
+            "release_date": "2026-07-28",
+            "resolution": 1.83,
+            "token_count": 298,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1163a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4059a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "16",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_16",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        },
+        "4058a": {
+            "release_date": "2025-09-12",
+            "resolution": 1.98,
+            "token_count": 301,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "1180a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 91,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "4058a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "3",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "ranking_model_fit": null,
+                    "source_subset": "base",
+                    "sabdab_annotation": null
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_3",
+                    "cluster_size": 2,
+                    "low_homology": true,
+                    "metric_eligible": true,
+                    "use_metrics": true,
+                    "source_subset": "base"
+                }
+            }
+        }
+    },
+    "reference_molecule_data": {
+        "1629a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCC[C]2NC(=O)CCC[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "CYS": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](CS)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "GLN": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)CC[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "HIS": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](Cc1c[nH]c[nH+]1)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "GLY": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NCC(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "VAL": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "GLU": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](CCC(=O)O)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "TRP": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "PHE": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](Cc1ccccc1)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "ARG": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=[NH2+])NCCC[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "PRO": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(O)[C@@H]1CCCN1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "SER": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](CO)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "ILE": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C@H](C)[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "TYR": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](Cc1ccc(O)cc1)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "LEU": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)C[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "LYS": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](CCCC[NH3+])C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "ASP": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](CC(=O)O)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "ASN": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)C[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "ALA": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "MET": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CSCC[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "THR": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H](O)[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1539b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1CC[C](OC(F)F)CN1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1290d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1C[C](F)CC[C]1C(=O)[O-]",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1358c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C]2[N]CN[C]2C[C]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4076a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CCCCC1)[C]1CCCC[C]1O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1317f_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O[C]1CC[C]2NCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1504b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[N]C[C]1NC(C)=O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1959c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC1=NN([C]2CCCCC2)C(=O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1647a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CC[C]([C]2CCN[N]2)[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1684b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COC(=O)N1CCN([C]2CC[C](F)CC2)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1436a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)CCN1C[N][C]2CCCC[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4138b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(CC(N)=O)[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4198d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C=CCN([C]1CCCCC1)C(=O)CCl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4075b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN1C(=O)C(=C[C]2CCCC[C]2OC)C(=O)N(CC)C1=S",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1758b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COC(=O)[C]1CCC[C](NS(C)(=O)=O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2085a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1NC[C@@H]2CCCCN12",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4223d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN1C(=O)C(=C[C]2CCCC[C]2Cl)C(=O)N(CC)C1=S",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2004b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNC[C@@H]1CO[C]2CCCC[C]2O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1351a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)[C]1CCC[C](Cl)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2044b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C]1C[N][C]2CCCC[C]2[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4223c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN1C(=O)C(=C[C]2CCCC[C]2Cl)C(=O)N(CC)C1=S",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2035a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)(C)[C]1CN2CCC[N][C]2[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1979b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C]1CC[C]2CCCC[C]2[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1184a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "FC(F)(F)[C]1CC[N][C](N2CCNCC2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1794a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N1CCN([C]2CC[C](Cl)CC2)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1910c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](C(=O)N[C]2C[N]N(C)C2)[N]O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1163d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4216b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)[C]1C[C]2CCCC[C]2O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1952b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CS(=O)(=O)NCC[C]1CC[C](F)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1404b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#CC[C]1CC[C](O)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1317e_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O[C]1CC[C]2NCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1832a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)NCC[C]1CC[C](S(N)(=O)=O)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2025b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C)S(=O)(=O)N1CCOCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1212a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C](O)[C](C(=O)O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1285a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1CCCC[C]1F",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2032b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C)S(=O)(=O)[C]1C[N]NC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2035b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)(C)[C]1CN2CCC[N][C]2[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1563a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1C[C](N)[C](C(=O)NC2CCC2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4068a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(C[C]1CCC[C](Cl)C1)C(=O)C(Cl)Cl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1754a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCCC(=O)N[C]1CCC[N][C]1Cl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4138a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(CC(N)=O)[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1944b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CCCCC1)N1CCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2059b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H]1CN(C(=O)[C]2C[N]S[N]2)[C@H](C)CO1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2110a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)[C@@H](O)C1CCOCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2108a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)[C]1[N][C]([C@@H]2CCCN2)[N]O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1541b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)NCC[C]1CN[C]2CC[C](F)C[C]12",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1540b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]CCN1[C]1CCC[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1614a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](NC(=O)C[NH3+])CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1721b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H]1[C@H](O)CCCN1C[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1629b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCC[C]2NC(=O)CCC[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1758a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COC(=O)[C]1CCC[C](NS(C)(=O)=O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1647c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CC[C]([C]2CCN[N]2)[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4176a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](CS(=O)(=O)CCC(=O)N2CCCCC2)[N]O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1317b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O[C]1CC[C]2NCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4128b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H]1CC[C]2CCCC[C]2N1C(=O)CCl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4192b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(C[C]1CCC[C](Cl)C1)C(=O)N[C]1CCC[C](Cl)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1437a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CCC[C](C(=O)[O-])[C]1N",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1422b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CC[C]2C=CS(=O)(=O)[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1968d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1[C](F)CCC[C]1F)N1CCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1721a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H]1[C@H](O)CCCN1C[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "x4004-b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1[N]O[C]2[N]CCC[C]12)C1C[C]2CCCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4083b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)CC(=O)N1[C]2CCCC[C]2CC[C@@H]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1444a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)[C]1CCC[C]2NCC[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1762a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C)C(=O)CN1CCC[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1832b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)NCC[C]1CC[C](S(N)(=O)=O)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1277a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N][C]([C]2CCC[C](N)C2)CS1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4103a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C[C@@H]1CO[C]2CCCC[C]2O1)C(=O)C1CCSCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1991b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#CCC(=O)NC1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1539a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1CC[C](OC(F)F)CN1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1353b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])[C]1CCC[C](Cl)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1747b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CCC[C](OC[C]2CCCCC2)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2044a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C]1C[N][C]2CCCC[C]2[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1174d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#C[C]1CCCC[C]1O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1985c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)[C]1CC[C](N)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1228b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(O)[C]1CC[C](O)[C](Cl)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1504a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[N]C[C]1NC(C)=O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1365a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OCN1C[N][C]2CCCC[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2010b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1CCN(C(=O)[C]2CC[C](F)[C](F)C2)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4060a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C1CC[C]2N[C](CSC[C]3[N][C]4CCCC[C]4N3)[N][C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1944d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CCCCC1)N1CCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1905b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1CCCC[C]1OC(F)F",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1423a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1CCC[C](O)C1)N1CCOCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1918b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]CS[C]1C(=O)N1CCNC(=O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1263b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](C)[N][C](N)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2099b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "Cl[C]1CCC[C]2[N]CN[C]12",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1985d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)[C]1CC[C](N)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1457a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](C)[N][C](N)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4155b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COC[C]1[N]CC[C](CO[C]2C[N][C]3CCCC[C]3C2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4170a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1CN(C(=O)[C]2C[N]O[C]2C[C]2CCCCC2)CCN1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1211a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CC[C](F)C[C]1C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1369a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1O[N][C]([C]2CCCCC2)[C]1C(=O)[O-]",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1467b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1OCC[C]1C(=O)NC[C]1CCCO1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1209b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NNC(=O)[C]1CC[C](O)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1231e_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1[N][C]2CCCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4034a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(C[C]1CCC[C](Cl)C1)C(=O)N[C]1CCCC[C]1Cl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2045a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)[C]1CC[N][C](C)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1164a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])[C]1CC[C](O)[C](Cl)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1433c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1C[N][C]2CCCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2059a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H]1CN(C(=O)[C]2C[N]S[N]2)[C@H](C)CO1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1384a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])[C]1CN[C]2CCCC[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1596b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OC1CN(C([C]2CCCCC2)[C]2CCCCC2)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1913b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(C)C(=O)[C]1CCC[C](N)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1959b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC1=NN([C]2CCCCC2)C(=O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1497a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H]1CCCN(C(=O)[C]2CSC[N]2)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4125d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)S[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1437c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CCC[C](C(=O)[O-])[C]1N",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1351b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)[C]1CCC[C](Cl)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4209b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4103b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C[C@@H]1CO[C]2CCCC[C]2O1)C(=O)C1CCSCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1437b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CCC[C](C(=O)[O-])[C]1N",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1545a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)CNC(=O)[C]1[N]CCN1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4048d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(NC(=O)[C]1CCCCC1)[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1456a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[N][C](N)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1735b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[N][C](N2CCNCC2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1939b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CCCC[C]1NC[C]1CCN[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1657a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNS(=O)(=O)[C]1CCC[C](C)[C]1F",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4125a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)S[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1985a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)[C]1CC[C](N)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1201b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])C1C[C]2CCCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1900b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](C(=O)NC[C@@H]2CCOC2)O[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4050b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)C([C]1CCCCC1)[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4048c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(NC(=O)[C]1CCCCC1)[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4125b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)S[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1763b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C]([C@H](N)[C]2CCCCC2)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1885d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(CC(=O)N1CCCCC1)S(C)(=O)=O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1571a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C)C(=O)[C]1C[C]2CCC[C](F)[C]2O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1184b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "FC(F)(F)[C]1CC[N][C](N2CCNCC2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1620b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])COC[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1369b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1O[N][C]([C]2CCCCC2)[C]1C(=O)[O-]",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4231a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)C(=O)N1[C]2CCCC[C]2CC[C@@H]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1863a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H]1CCCCN1C(=O)[C]1C[N]CC[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4125c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)S[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2099a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "Cl[C]1CCC[C]2[N]CN[C]12",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2063a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CC[C](NC2CCOCC2)[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4209a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1918a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]CS[C]1C(=O)N1CCNC(=O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1647d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CC[C]([C]2CCN[N]2)[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1682a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC[C]1[N]O[C]([C]2CCCC[C]2F)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1885c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(CC(=O)N1CCCCC1)S(C)(=O)=O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1444b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)[C]1CCC[C]2NCC[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1900a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](C(=O)NC[C@@H]2CCOC2)O[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1910b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](C(=O)N[C]2C[N]N(C)C2)[N]O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1708a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(COC(F)F)N1C[C@H]2CCC[C@H]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2040b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]O[C](C)[C]1C(=O)NCCC1=CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1236b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C](C(N)=O)C[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1317d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O[C]1CC[C]2NCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1939a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CCCC[C]1NC[C]1CCN[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4138d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(CC(N)=O)[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1863b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H]1CCCCN1C(=O)[C]1C[N]CC[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1644b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)[C]1C[N]N(CCO)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1891b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[C]([C@@H](C)NS(C)(=O)=O)C[N]N1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1996b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCNC(=O)N[C]1C[C](C)O[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1944c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CCCCC1)N1CCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1841c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COCC(=O)NC[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1917b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(CCC[C]1CCCCC1)N1CCOCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4078b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCCC(=O)N1[C]2CCCC[C]2CC[C@@H]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1620a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])COC[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1231d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1[N][C]2CCCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1985e_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)[C]1CC[C](N)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2047a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CS[C](NC(=O)C2CCOCC2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4048a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(NC(=O)[C]1CCCCC1)[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1174c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#C[C]1CCCC[C]1O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1959a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC1=NN([C]2CCCCC2)C(=O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4198c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C=CCN([C]1CCCCC1)C(=O)CCl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4172b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](OC[C]2CCCCC2)[C](C(=O)N2CCNC(=O)C2)S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4120a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C]1[N][C]2CCCC[C]2N1[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1682b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC[C]1[N]O[C]([C]2CCCC[C]2F)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4067a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(C[C]1CCC[C](Cl)C1)C(=O)CCl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1180a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N]O[C]2CCCC[C]12",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2047b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CS[C](NC(=O)C2CCOCC2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1816a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N1[C]2CCCC[C]2CC[C@H]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1537b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C]1[N]CC[C]2CCCC[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1571b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C)C(=O)[C]1C[C]2CCC[C](F)[C]2O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1147a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CC[C](F)C[C]1C(=O)[O-]",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4024h_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1N[C]2CCCC[C]2CC[C@H]1N[C]1CC[N]C[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1433b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1C[N][C]2CCCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4014a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(CC(F)(F)F)N1CCN(C[C]2[N][C]3CCCC[C]3N2)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4128a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H]1CC[C]2CCCC[C]2N1C(=O)CCl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1463b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CC[C]2OC(=O)CC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1536a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)[C]1C[C]2[N]CCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1708b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(COC(F)F)N1C[C@H]2CCC[C@H]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1917a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(CCC[C]1CCCCC1)N1CCOCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1285b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1CCCC[C]1F",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4024e_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1N[C]2CCCC[C]2CC[C@H]1N[C]1CC[N]C[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1295a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])C[C]1CCCC[C]1O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1457b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](C)[N][C](N)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1537a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C]1[N]CC[C]2CCCC[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1647e_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CC[C]([C]2CCN[N]2)[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4040b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(C([C]1CCCCC1)[C]1CCCCC1)N1CCC[C@H](O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1614b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](NC(=O)C[NH3+])CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1769a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1CC[C](C(=O)NC[C@@H]2CCCO2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1433d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1C[N][C]2CCCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2085b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1NC[C@@H]2CCCCN12",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1317a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O[C]1CC[C]2NCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1821b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]CCN1C[C]1CCC[C](C#N)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1168b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1[N][C]2CCCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4198b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C=CCN([C]1CCCCC1)C(=O)CCl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1573b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C@@H]1CCN([C]2CCCC[C]2F)C1=O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1946b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CCCCC1)N[C]1CCC[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1974a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(CCO)[C]1CCCC[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1968a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1[C](F)CCC[C]1F)N1CCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2053a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C)S(=O)(=O)[C]1CCC[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1647f_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CC[C]([C]2CCN[N]2)[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1277b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N][C]([C]2CCC[C](N)C2)CS1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1425a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])[C]1SCC[C]1N1CCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1766b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COCC(=O)N[C@@]1(C)CCS(=O)(=O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1968b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1[C](F)CCC[C]1F)N1CCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4050a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)C([C]1CCCCC1)[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2085d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1NC[C@@H]2CCCCN12",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4172a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](OC[C]2CCCCC2)[C](C(=O)N2CCNC(=O)C2)S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1353a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])[C]1CCC[C](Cl)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4068b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(C[C]1CCC[C](Cl)C1)C(=O)C(Cl)Cl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4223f_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN1C(=O)C(=C[C]2CCCC[C]2Cl)C(=O)N(CC)C1=S",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1436b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)CCN1C[N][C]2CCCC[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1524a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CS(=O)(=O)C[C]1[N][C]2CCCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1422a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CC[C]2C=CS(=O)(=O)[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1966a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CS(=O)(=O)NC1CCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1563b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1C[C](N)[C](C(=O)NC2CCC2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4058a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C1CC[C]2N[C](CSC3=NCCN3)[N][C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4120b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C]1[N][C]2CCCC[C]2N1[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1754b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCCC(=O)N[C]1CCC[N][C]1Cl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1425b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])[C]1SCC[C]1N1CCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2057a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CCC[C](NC(=O)[C@@H]2CCCN2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2062b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN[C]1CC[C](C)[N][N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4040a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(C([C]1CCCCC1)[C]1CCCCC1)N1CCC[C@H](O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "x411-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)CS[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1533a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C@@H]1CCCN([C]2CCCCC2)C1=O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1840b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCOC(=O)NC[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4059a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1O[C]2CCCC[C]2C[C]1CO",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1142c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O[C]1CC[C]2C[N]N[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4014b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(CC(F)(F)F)N1CCN(C[C]2[N][C]3CCCC[C]3N2)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1809b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCCC[C]1[C]1[N][N][C](N)O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1545b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)CNC(=O)[C]1[N]CCN1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4067b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(C[C]1CCC[C](Cl)C1)C(=O)CCl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1358d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C]2[N]CN[C]2C[C]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1447b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1CC[C]2CC[C](O)C[C]2O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1779a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C]1[N][N][C](NC(=O)[C@H]2CCCO2)S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1860a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CCC[C](C(=O)N2CCC(C(N)=O)CC2)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4170b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1CN(C(=O)[C]2C[N]O[C]2C[C]2CCCCC2)CCN1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1404a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#CC[C]1CC[C](O)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1821a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]CCN1C[C]1CCC[C](C#N)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4155a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COC[C]1[N]CC[C](CO[C]2C[N][C]3CCCC[C]3C2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2010a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1CCN(C(=O)[C]2CC[C](F)[C](F)C2)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4078a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCCC(=O)N1[C]2CCCC[C]2CC[C@@H]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4192a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(C[C]1CCC[C](Cl)C1)C(=O)N[C]1CCC[C](Cl)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1211b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CC[C](F)C[C]1C(=O)O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4120d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C]1[N][C]2CCCC[C]2N1[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1174a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#C[C]1CCCC[C]1O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1188a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1NC[N][C]2[C]3CCCC[C]3O[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1263a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](C)[N][C](N)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4024d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1N[C]2CCCC[C]2CC[C@@H]1N[C]1CC[N]C[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1180c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N]O[C]2CCCC[C]12",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1991a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#CCC(=O)NC1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1647b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CC[C]([C]2CCN[N]2)[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1684a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COC(=O)N1CCN([C]2CC[C](F)CC2)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1176b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OC[C]1C[C]([C]2CCCCC2)O[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1174b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#C[C]1CCCC[C]1O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2053b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C)S(=O)(=O)[C]1CCC[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1910d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](C(=O)N[C]2C[N]N(C)C2)[N]O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4058b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C1CC[C]2N[C](CSC3=NCCN3)[N][C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1766a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COCC(=O)N[C@@]1(C)CCS(=O)(=O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1747d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CCC[C](OC[C]2CCCCC2)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1840a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCOC(=O)NC[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1147b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CC[C](F)C[C]1C(=O)[O-]",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1358a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C]2[N]CN[C]2C[C]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1996a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCNC(=O)N[C]1C[C](C)O[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1985g_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)[C]1CC[C](N)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1164b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])[C]1CC[C](O)[C](Cl)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4223a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN1C(=O)C(=C[C]2CCCC[C]2Cl)C(=O)N(CC)C1=S",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1891a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[C]([C@@H](C)NS(C)(=O)=O)C[N]N1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1317c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O[C]1CC[C]2NCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4070a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1[C@H](N[C]2CCCCC2)CCN1[C]1CC[C](F)[C](Cl)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1142d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O[C]1CC[C]2C[N]N[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1456b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[N][C](N)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1910a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](C(=O)N[C]2C[N]N(C)C2)[N]O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2040a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]O[C](C)[C]1C(=O)NCCC1=CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2004a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNC[C@@H]1CO[C]2CCCC[C]2O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4024f_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1N[C]2CCCC[C]2CC[C@H]1N[C]1CC[N]C[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4070b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1[C@H](N[C]2CCCCC2)CCN1[C]1CC[C](F)[C](Cl)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1769b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1CC[C](C(=O)NC[C@@H]2CCCO2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1329a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N][C]2[C](Cl)CCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1946a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CCCCC1)N[C]1CCC[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1236a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C](C(N)=O)C[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1209a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NNC(=O)[C]1CC[C](O)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2057b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CCC[C](NC(=O)[C@@H]2CCCN2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1985b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)[C]1CC[C](N)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4190a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(C[C]1CCC[C](Cl)C1)C(=O)N[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1816b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N1[C]2CCCC[C]2CC[C@H]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1447a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1CC[C]2CC[C](O)C[C]2O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1285d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1CCCC[C]1F",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4231b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)C(=O)N1[C]2CCCC[C]2CC[C@@H]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1290c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1C[C](F)CC[C]1C(=O)[O-]",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4079a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCC(=O)N1[C]2CCCC[C]2CC[C@@H]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1763a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C]([C@H](N)[C]2CCCCC2)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1913a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(C)C(=O)[C]1CCC[C](N)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4223e_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN1C(=O)C(=C[C]2CCCC[C]2Cl)C(=O)N(CC)C1=S",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1791b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](N2CCNCC2)[N][C](C)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1168a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1[N][C]2CCCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1295b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])C[C]1CCCC[C]1O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4024g_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1N[C]2CCCC[C]2CC[C@H]1N[C]1CC[N]C[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1365c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OCN1C[N][C]2CCCC[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4108b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C=CCN([C]1CCCCC1)C(=O)CNC(=O)[C@@H]1CCCN1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1536b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)[C]1C[C]2[N]CCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1985f_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)[C]1CC[C](N)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4024b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1N[C]2CCCC[C]2CC[C@H]1N[C]1CC[N]C[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1142a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O[C]1CC[C]2C[N]N[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1180d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N]O[C]2CCCC[C]12",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1231a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1[N][C]2CCCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1234b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CCCC[C]1CO",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1841d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COCC(=O)NC[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4059b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1O[C]2CCCC[C]2C[C]1CO",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1168d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1[N][C]2CCCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1985h_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)[C]1CC[C](N)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1747c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CCC[C](OC[C]2CCCCC2)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1979a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C]1CC[C]2CCCC[C]2[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1365b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OCN1C[N][C]2CCCC[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4024c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1N[C]2CCCC[C]2CC[C@H]1N[C]1CC[N]C[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1180b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N]O[C]2CCCC[C]12",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "x4004-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1[N]O[C]2[N]CCC[C]12)C1C[C]2CCCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4198a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C=CCN([C]1CCCCC1)C(=O)CCl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1524b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CS(=O)(=O)C[C]1[N][C]2CCCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2045b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)[C]1CC[N][C](C)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1652b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CCC[N][C]1N[C@H]1CCCOCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1423b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1CCC[C](O)C1)N1CCOCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4079b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCC(=O)N1[C]2CCCC[C]2CC[C@@H]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1952a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CS(=O)(=O)NCC[C]1CC[C](F)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1866a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCC(=O)N[C]1CC[C](C)C[C]1O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4024a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1N[C]2CCCC[C]2CC[C@H]1N[C]1CC[N]C[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1885a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(CC(=O)N1CCCCC1)S(C)(=O)=O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1290a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1C[C](F)CC[C]1C(=O)[O-]",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1329b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N][C]2[C](Cl)CCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1866b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCC(=O)N[C]1CC[C](C)C[C]1O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4075a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN1C(=O)C(=C[C]2CCCC[C]2OC)C(=O)N(CC)C1=S",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2006b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])CO[C]1CC[C](F)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1644a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)[C]1C[N]N(CCO)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4034b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(C[C]1CCC[C](Cl)C1)C(=O)N[C]1CCCC[C]1Cl",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1231f_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1[N][C]2CCCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1463a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CC[C]2OC(=O)CC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1779b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C]1[N][N][C](NC(=O)[C@H]2CCCO2)S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2110b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)[C@@H](O)C1CCOCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1212b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C](O)[C](C(=O)O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1541a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)NCC[C]1CN[C]2CC[C](F)C[C]12",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1968c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1[C](F)CCC[C]1F)N1CCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1762b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C)C(=O)CN1CCC[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1467a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1OCC[C]1C(=O)NC[C]1CCCO1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1285c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1CCCC[C]1F",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4223b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN1C(=O)C(=C[C]2CCCC[C]2Cl)C(=O)N(CC)C1=S",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4176b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](CS(=O)(=O)CCC(=O)N2CCCCC2)[N]O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1176a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OC[C]1C[C]([C]2CCCCC2)O[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1188b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1NC[N][C]2[C]3CCCC[C]3O[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1497b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H]1CCCN(C(=O)[C]2CSC[N]2)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1860b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CCC[C](C(=O)N2CCC(C(N)=O)CC2)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1163c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1433a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1C[N][C]2CCCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2062a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN[C]1CC[C](C)[N][N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4138c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(CC(N)=O)[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4108a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C=CCN([C]1CCCCC1)C(=O)CNC(=O)[C@@H]1CCCN1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1365d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OCN1C[N][C]2CCCC[C]21",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1966b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CS(=O)(=O)NC1CCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1841b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COCC(=O)NC[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4048b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(NC(=O)[C]1CCCCC1)[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1885b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(CC(=O)N1CCCCC1)S(C)(=O)=O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1735a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[N][C](N2CCNCC2)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "x423-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CC[C](OC[C@@H]2CO[C]3CCCC[C]3O2)[C](Cl)C1)C1CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1809a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCCC[C]1[C]1[N][N][C](N)O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1358b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C]2[N]CN[C]2C[C]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1596a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OC1CN(C([C]2CCCCC2)[C]2CCCCC2)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1959d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC1=NN([C]2CCCCC2)C(=O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1163b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1911b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCC(=O)N1CCC[C@@H](NS(C)(=O)=O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1911a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCC(=O)N1CCC[C@@H](NS(C)(=O)=O)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1794b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N1CCN([C]2CC[C](Cl)CC2)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1841a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COCC(=O)NC[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4120c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C]1[N][C]2CCCC[C]2N1[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1231b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1[N][C]2CCCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1234a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CCCC[C]1CO",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2032a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C)S(=O)(=O)[C]1C[N]NC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1533b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C@@H]1CCCN([C]2CCCCC2)C1=O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4190b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(C[C]1CCC[C](Cl)C1)C(=O)N[C]1CCCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1290b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1C[C](F)CC[C]1C(=O)[O-]",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1657b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNS(=O)(=O)[C]1CCC[C](C)[C]1F",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1944a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CCCCC1)N1CCCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2085c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1NC[C@@H]2CCCCN12",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1974b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(CCO)[C]1CCCC[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2006a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])CO[C]1CC[C](F)CC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2063b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CC[C](NC2CCOCC2)[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1573a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C@@H]1CCN([C]2CCCC[C]2F)C1=O",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "2025a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C)S(=O)(=O)N1CCOCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1652a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CCC[N][C]1N[C@H]1CCCOCC1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1168c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1[N][C]2CCCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4083a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)CC(=O)N1[C]2CCCC[C]2CC[C@@H]1C",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1791a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](N2CCNCC2)[N][C](C)[N]1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1228a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(O)[C]1CC[C](O)[C](Cl)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1231c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1[N][C]2CCCC[C]2N1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1905a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1CCCC[C]1OC(F)F",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1163a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N][C]2CCCC[C]2S1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1540a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]CCN1[C]1CCC[N]C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1747a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CCC[C](OC[C]2CCCCC2)C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4216a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)C(=O)[C]1C[C]2CCCC[C]2O1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "4060b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C1CC[C]2N[C](CSC[C]3[N][C]4CCCC[C]4N3)[N][C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1201a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])C1C[C]2CCCC[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        },
+        "1142b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O[C]1CC[C]2C[N]N[C]2C1",
+            "set_fallback_to_nan": false,
+            "residue_count": 1
+        }
+    }
+}

@@ -1,0 +1,5016 @@
+{
+    "_type": "ClusteredDatasetCache",
+    "name": "Flavi_NS5_RdRp_2026-06-01",
+    "structure_data": {
+        "denv2-rdrp-x0135a": {
+            "release_date": "2024-10-08",
+            "resolution": 1.61,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0135a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0135a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "1",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_1",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0153a": {
+            "release_date": "2025-02-27",
+            "resolution": 1.63,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0153a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0153a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "2",
+                    "cluster_size": 3
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_2",
+                    "cluster_size": 3
+                }
+            }
+        },
+        "denv2-rdrp-x0153b": {
+            "release_date": "2025-02-27",
+            "resolution": 1.63,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0153a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0153b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "2",
+                    "cluster_size": 3
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_2",
+                    "cluster_size": 3
+                }
+            }
+        },
+        "denv2-rdrp-x0153c": {
+            "release_date": "2025-02-27",
+            "resolution": 1.63,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0153a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0153c_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "2",
+                    "cluster_size": 3
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_2",
+                    "cluster_size": 3
+                }
+            }
+        },
+        "denv2-rdrp-x0160a": {
+            "release_date": "2024-10-08",
+            "resolution": 1.739,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0160a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0160a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "3",
+                    "cluster_size": 4
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_3",
+                    "cluster_size": 4
+                }
+            }
+        },
+        "denv2-rdrp-x0160b": {
+            "release_date": "2024-10-08",
+            "resolution": 1.739,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0160a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0160b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "3",
+                    "cluster_size": 4
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_3",
+                    "cluster_size": 4
+                }
+            }
+        },
+        "denv2-rdrp-x0160c": {
+            "release_date": "2024-10-08",
+            "resolution": 1.739,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0160a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0160c_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "3",
+                    "cluster_size": 4
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_3",
+                    "cluster_size": 4
+                }
+            }
+        },
+        "denv2-rdrp-x0160d": {
+            "release_date": "2024-10-08",
+            "resolution": 1.739,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0160a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0160d_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "3",
+                    "cluster_size": 4
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_3",
+                    "cluster_size": 4
+                }
+            }
+        },
+        "denv2-rdrp-x0162a": {
+            "release_date": "2025-02-28",
+            "resolution": 1.5,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0162a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0162a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "4",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_4",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0172a": {
+            "release_date": "2024-10-08",
+            "resolution": 1.66,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0172a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0172a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "5",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_5",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0174a": {
+            "release_date": "2024-10-08",
+            "resolution": 1.64,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0174a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0174a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "6",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_6",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0176a": {
+            "release_date": "2025-02-27",
+            "resolution": 1.51,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0176a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0176a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "7",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_7",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0191a": {
+            "release_date": "2024-10-08",
+            "resolution": 1.579,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0191a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0191a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "8",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_8",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0210a": {
+            "release_date": "2024-10-08",
+            "resolution": 1.6,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0210a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "9",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_9",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0210b": {
+            "release_date": "2024-10-08",
+            "resolution": 1.6,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0210b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "9",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_9",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0248a": {
+            "release_date": "2024-10-08",
+            "resolution": 1.748,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0248a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "10",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_10",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0249a": {
+            "release_date": "2025-02-28",
+            "resolution": 1.6,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0249a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0249a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "11",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_11",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0249b": {
+            "release_date": "2025-02-28",
+            "resolution": 1.6,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0249a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0249b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "11",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_11",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0250a": {
+            "release_date": "2024-10-09",
+            "resolution": 1.749,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0250a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "12",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_12",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0253a": {
+            "release_date": "2025-02-25",
+            "resolution": 1.63,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0253a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0253a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "13",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_13",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0254a": {
+            "release_date": "2024-10-08",
+            "resolution": 1.72,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0254a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0254a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "14",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_14",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0258a": {
+            "release_date": "2025-02-27",
+            "resolution": 1.7,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0258a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0258a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "15",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_15",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0264a": {
+            "release_date": "2025-02-27",
+            "resolution": 1.72,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0264a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0264a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "16",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_16",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0279a": {
+            "release_date": "2024-10-22",
+            "resolution": 1.66,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0279a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "17",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_17",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0283a": {
+            "release_date": "2024-10-22",
+            "resolution": 1.879,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0283a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "18",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_18",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0288a": {
+            "release_date": "2024-10-09",
+            "resolution": 1.629,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0288a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "19",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_19",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0323a": {
+            "release_date": "2024-10-09",
+            "resolution": 2.433,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0323a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "20",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_20",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0376a": {
+            "release_date": "2024-10-22",
+            "resolution": 1.82,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0376a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "21",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_21",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0378a": {
+            "release_date": "2025-02-27",
+            "resolution": 2.05,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0378a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0378a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "22",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_22",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0379a": {
+            "release_date": "2025-02-27",
+            "resolution": 1.851,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0379a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0379a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "23",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_23",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0379b": {
+            "release_date": "2025-02-27",
+            "resolution": 1.851,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0379a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0379b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "23",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_23",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0411a": {
+            "release_date": "2025-02-25",
+            "resolution": 1.84,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0411a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0411a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "24",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_24",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0411b": {
+            "release_date": "2025-02-25",
+            "resolution": 1.84,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0411a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0411b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "24",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_24",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0414a": {
+            "release_date": "2024-10-09",
+            "resolution": 2.12,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0414a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "25",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_25",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0428a": {
+            "release_date": "2024-10-10",
+            "resolution": 2.159,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0135a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0428a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "26",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_26",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0471a": {
+            "release_date": "2024-10-10",
+            "resolution": 1.63,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0471a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "27",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_27",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0472a": {
+            "release_date": "2025-03-21",
+            "resolution": 1.74,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0472a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0472a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "28",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_28",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0472b": {
+            "release_date": "2025-03-21",
+            "resolution": 1.74,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0472a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0472b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "28",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_28",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0479a": {
+            "release_date": "2025-02-27",
+            "resolution": 1.976,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0479a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0479a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "29",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_29",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0503a": {
+            "release_date": "2025-02-27",
+            "resolution": 1.901,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0503a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0503a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "30",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_30",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0566a": {
+            "release_date": "2025-02-28",
+            "resolution": 2.03,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0566a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0566a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "31",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_31",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0567a": {
+            "release_date": "2025-02-28",
+            "resolution": 1.78,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0567a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0567a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "32",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_32",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0571a": {
+            "release_date": "2025-02-27",
+            "resolution": 1.919,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0571a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0571a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "33",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_33",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0615a": {
+            "release_date": "2024-10-22",
+            "resolution": 1.92,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o1454a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0615a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "34",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_34",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0615b": {
+            "release_date": "2024-10-22",
+            "resolution": 1.92,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o1454a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0615b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "34",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_34",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0644a": {
+            "release_date": "2025-02-24",
+            "resolution": 1.759,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0644a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0644a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "35",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_35",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0741a": {
+            "release_date": "2024-10-10",
+            "resolution": 1.741,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0741a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0741a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "36",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_36",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0749a": {
+            "release_date": "2024-10-10",
+            "resolution": 1.859,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0749a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "37",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_37",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0759a": {
+            "release_date": "2025-02-28",
+            "resolution": 1.8,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0759a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0759a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "38",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_38",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0781a": {
+            "release_date": "2025-02-27",
+            "resolution": 1.59,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0781a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0781a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "39",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_39",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0787a": {
+            "release_date": "2025-02-28",
+            "resolution": 1.959,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0787a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0787a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "40",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_40",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0789a": {
+            "release_date": "2024-10-10",
+            "resolution": 1.728,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0789a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "41",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_41",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0825a": {
+            "release_date": "2024-10-10",
+            "resolution": 1.818,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0825a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0825a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "42",
+                    "cluster_size": 3
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_42",
+                    "cluster_size": 3
+                }
+            }
+        },
+        "denv2-rdrp-x0825b": {
+            "release_date": "2024-10-10",
+            "resolution": 1.818,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0825a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0825b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "42",
+                    "cluster_size": 3
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_42",
+                    "cluster_size": 3
+                }
+            }
+        },
+        "denv2-rdrp-x0825c": {
+            "release_date": "2024-10-10",
+            "resolution": 1.818,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0825a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0825c_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "42",
+                    "cluster_size": 3
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_42",
+                    "cluster_size": 3
+                }
+            }
+        },
+        "denv2-rdrp-x0829a": {
+            "release_date": "2024-10-10",
+            "resolution": 1.669,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0829a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "43",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_43",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0843a": {
+            "release_date": "2025-02-27",
+            "resolution": 1.76,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0843a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0843a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "44",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_44",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0851a": {
+            "release_date": "2024-10-10",
+            "resolution": 1.66,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0612a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0851a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "45",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_45",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0851b": {
+            "release_date": "2024-10-10",
+            "resolution": 1.66,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0612a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0851b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "45",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_45",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x0866a": {
+            "release_date": "2025-02-28",
+            "resolution": 1.75,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0866a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0866a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "46",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_46",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0963a": {
+            "release_date": "2024-10-10",
+            "resolution": 2.23,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0963a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "47",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_47",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-x1037a": {
+            "release_date": "2024-10-11",
+            "resolution": 1.66,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x1037a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "48",
+                    "cluster_size": 3
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_48",
+                    "cluster_size": 3
+                }
+            }
+        },
+        "denv2-rdrp-x1037b": {
+            "release_date": "2024-10-11",
+            "resolution": 1.66,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x1037b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "48",
+                    "cluster_size": 3
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_48",
+                    "cluster_size": 3
+                }
+            }
+        },
+        "denv2-rdrp-x1037c": {
+            "release_date": "2024-10-11",
+            "resolution": 1.66,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x1037c_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "48",
+                    "cluster_size": 3
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_48",
+                    "cluster_size": 3
+                }
+            }
+        },
+        "denv2-rdrp-x1046a": {
+            "release_date": "2024-10-22",
+            "resolution": 1.84,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x1046a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "49",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_49",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x1073a": {
+            "release_date": "2024-10-11",
+            "resolution": 1.65,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x1073a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "50",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_50",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x1094a": {
+            "release_date": "2024-10-10",
+            "resolution": 1.782,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x1094a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "51",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_51",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x1149a": {
+            "release_date": "2024-10-10",
+            "resolution": 1.63,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x1149a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "52",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_52",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x1192a": {
+            "release_date": "2024-10-22",
+            "resolution": 1.6,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x1192a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "53",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_53",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x1196a": {
+            "release_date": "2024-10-10",
+            "resolution": 1.659,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o1454a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x1196a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "54",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_54",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x1212a": {
+            "release_date": "2024-10-10",
+            "resolution": 1.86,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x1212a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "55",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_55",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x1217a": {
+            "release_date": "2024-10-10",
+            "resolution": 1.65,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x1217a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "56",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_56",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-o0239a": {
+            "release_date": "2026-05-21",
+            "resolution": 1.78,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0239a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-o0239a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "57",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_57",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-o0239b": {
+            "release_date": "2026-05-21",
+            "resolution": 1.78,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0239a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-o0239b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "57",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_57",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-o0244a": {
+            "release_date": "2026-05-22",
+            "resolution": 1.569,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0244a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-o0244a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "58",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_58",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-o0284a": {
+            "release_date": "2026-05-21",
+            "resolution": 1.73,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-o0284a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "59",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_59",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-o0284b": {
+            "release_date": "2026-05-21",
+            "resolution": 1.73,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-o0284b_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "59",
+                    "cluster_size": 2
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_59",
+                    "cluster_size": 2
+                }
+            }
+        },
+        "denv2-rdrp-o0423a": {
+            "release_date": "2026-05-21",
+            "resolution": 1.73,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-o0423a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "60",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_60",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-o0430a": {
+            "release_date": "2026-05-22",
+            "resolution": 1.954,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-o0430a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "61",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_61",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-o0459a": {
+            "release_date": "2026-05-22",
+            "resolution": 1.888,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0459a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-o0459a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "62",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_62",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-o0484a": {
+            "release_date": "2026-05-22",
+            "resolution": 2.187,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-o0284a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-o0484a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "63",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_63",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0587a": {
+            "release_date": "2025-02-27",
+            "resolution": 1.86,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0587a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0587a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "64",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_64",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0612a": {
+            "release_date": "2024-10-10",
+            "resolution": 1.56,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0612a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0612a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "65",
+                    "cluster_size": 3
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_65",
+                    "cluster_size": 3
+                }
+            }
+        },
+        "denv2-rdrp-x0693a": {
+            "release_date": "2025-02-27",
+            "resolution": 2.259,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0693a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0693a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "66",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_66",
+                    "cluster_size": 1
+                }
+            }
+        },
+        "denv2-rdrp-x0771a": {
+            "release_date": "2025-02-27",
+            "resolution": 1.56,
+            "chains": {
+                "1": {
+                    "label_asym_id": "1",
+                    "auth_asym_id": "1",
+                    "entity_id": 1,
+                    "molecule_type": "PROTEIN",
+                    "reference_mol_id": null,
+                    "alignment_representative_id": "denv2-rdrp-x0771a_1",
+                    "template_ids": null,
+                    "cluster_id": "0",
+                    "cluster_size": 238
+                },
+                "2": {
+                    "label_asym_id": "2",
+                    "auth_asym_id": "2",
+                    "entity_id": 2,
+                    "molecule_type": "LIGAND",
+                    "reference_mol_id": "DENV2-RdRp-x0771a_1",
+                    "alignment_representative_id": null,
+                    "template_ids": null,
+                    "cluster_id": "67",
+                    "cluster_size": 1
+                }
+            },
+            "interfaces": {
+                "1_2": {
+                    "cluster_id": "0_67",
+                    "cluster_size": 1
+                }
+            }
+        }
+    },
+    "reference_molecule_data": {
+        "5hmz-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1C[C](C)[C](C(=O)NS(C)(=O)=O)C[C]1[C]1CC[C](C#CCO)S1",
+            "set_fallback_to_nan": false
+        },
+        "GLY": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NCC(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "ASP": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](CC(=O)O)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "TYR": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](Cc1ccc(O)cc1)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "MET": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CSCC[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "ARG": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=[NH2+])NCCC[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "ILE": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C@H](C)[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "GLU": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](CCC(=O)O)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "ALA": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "PRO": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(O)[C@@H]1CCCN1",
+            "set_fallback_to_nan": false
+        },
+        "SER": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](CO)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "PHE": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](Cc1ccccc1)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "CYS": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](CS)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "THR": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H](O)[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "TRP": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "ASN": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)C[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "HIS": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](Cc1c[nH]c[nH+]1)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "VAL": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "LYS": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C@@H](CCCC[NH3+])C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "LEU": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)C[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "GLN": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)CC[C@H](N)C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0668a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@]1(C(N)=O)CCCN1S(C)(=O)=O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0200a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNC(=O)[C@@H]1CCC[C]2S[C](C)[N][C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0825c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1C[N][C]2CCC[N]N21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0963a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "I[C]1C[N]NC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0221a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CCC[C](O)[C]1NC(=O)[C]1CC[N]C[C]1F",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0936a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C]([C]2CCCCC2)[N]N1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0567a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNS(=O)(=O)[C]1CCC[C](C)[C]1F",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0521a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN(CC)[C]1C[C](C)[N][C]2[N]C[N]N21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0995a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H](N)[C]1CN([C]2CCCCC2)[N][N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1082a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)(CO)NC(=O)[C]1CS[C]([C]2CCSC2)[N]1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0866a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H]1[C@H](C(=O)N2CCCC2)CCCN1S(C)(=O)=O",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0851a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H]1CCC[C@@H](CO)N1S(C)(=O)=O",
+            "set_fallback_to_nan": false
+        },
+        "5iq6-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C@@H](C[C]1CC[C](O)CC1)C(=O)O)[C]1C[C]([C]2CCCCC2)C(=O)N2[C]3C[C](OC4CCCCC4)CC[C]3S[C]12",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5713a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#C[C]1CCC[C](N)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0851b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H]1CCC[C@@H](CO)N1S(C)(=O)=O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0136b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N[C]1CCC[C]2CCN[C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0266a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N[C]1CCC[C](NC(N)=O)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0136d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N[C]1CCC[C]2CCN[C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0741a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=S)N[C]1CCCC[C]1OC(F)(F)F",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0501a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CCCC[C]1CC(N)=O",
+            "set_fallback_to_nan": false
+        },
+        "5hmx-b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(O)C[C]1C[C](CC(=O)O)C[C]([C]2CCCS2)C1",
+            "set_fallback_to_nan": false
+        },
+        "3vws-b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1O[C]2CC[C](NS(=O)(=O)[C]3CC[C](Cl)CC3)C[C]2[C]1C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0484a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)[C]1CC[C](O)CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o1075a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CS[C]1[N]S[C](NC(=O)N(C)CC[C]2CCCS2)[N]1",
+            "set_fallback_to_nan": false
+        },
+        "6xd1-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCCCN(C[C]1CC[C]([C]2CCCC[C]2[C]2[N][N][N]N2)CC1)C(=O)N1CCN(C(=O)C(C)([C]2CCCCC2)[C]2CCCCC2)[C@@H](C(=O)O)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5910a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1N[C](O)[N][C]2CCS[C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o1454b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CC[C](CN2C[N]C[N]2)CC1)[C]1[N][N]N[C]1[C]1CCCCC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0307a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N][C]([C]2CCC[C](N)C2)[N]O1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0787a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC1CCN(C(=O)[C]2C[C]3CCCC[C]3O2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5220a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N]CC[C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0252a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H](O)CNC[C]1CC[C]2OCO[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1090a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCS(=O)(=O)NC[C]1[N][C]2C[C](Cl)CC[C]2N1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1111a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]C[C](CN[C]2C[C]([C]3CCCCC3)CC[N]2)S1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0111b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C]1[N]CC[C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1628b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1C[N]C[C](NC[C]2C[N][C]3NC[N][C]3C2)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0486a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CCCCC1)N[C]1CCC[N]C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0835a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC1CCCC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5542a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1CC[C]2[C](N)CCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0136c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N[C]1CCC[C]2CCN[C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1528a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(NCC[C]1CCCC[C]1Cl)[C]1CN[N][C]1[C]1CC[N]CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5164a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)[C]1CCC[C](N)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1040a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C]1CC[C]2CCCC[C]2[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5220c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N]CC[C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0193a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CS(=O)(=O)NC1CCNCC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0249b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N[C]1CC[C](N[C]2CCCCC2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0625d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](F)CC[C]1CS(N)(=O)=O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1623a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@]1(CC[C]2CC[C](F)CC2)NC(=O)NC1=O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0437a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CCCC[C]1CNC1CCOCC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5231a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN1[C]2CCCC[C]2NC1=O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0821a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OCC1CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x2153a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCC[C](S(=O)(=O)NC(=O)[C]2C[C]([C]3CC[C](C#CCO)S3)[C](OC)C[C]2OC)C1",
+            "set_fallback_to_nan": false
+        },
+        "5hmw-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(O)C[C]1C[C](CC(=O)O)C[C]([C]2CCCCC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0639a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]C[C](CN[C]2C[N]C[C](S(C)(=O)=O)C2)S1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1651a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H]1[C@H](C(=O)N2CCCC2)CCCN1C(=O)C[C]1CCC[C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0397a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1CN(C(=O)CO[C]2CCCCC2)CCN1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0364b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N[C@H]1CN[C]2CCCC[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0993a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)[C]1CC[N][C](NC2CC=CC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1351b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CC[C](Cl)[C]2[N]CCC[C]12)[C]1CC[N]CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0210a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=S(=O)([C]1CC[C](F)CC1)N1CCNCC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0519a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](CC[C@]2(C)NC(=O)NC2=O)CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1212a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C](CCN[C]2CCCCC2)C[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0892a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C]1CC[C](NC2=NCCCS2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0553a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C)C(=O)CN1C[N][C](N)[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0107a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCC[C]2NCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1355a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1C[N][C]2[N]C[C](CN3CCCC3)C[C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0284a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CCCC[C]1C(N)=O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0496a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C]([C]2[N][C](N)S[C]2C)C[C]1C",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0987a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNC(=O)[C]1CCC[C]2CCN[C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0829a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)NC[C]1C[N]NC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-o0446a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)[C]1[N]O[C](CCNC(=O)N[C]2C[N]N([C]3CCCCC3)C2)[N]1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0644a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](C(=O)C2CCNCC2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "6izx-b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)O[C]1CC[C]2OC(=O)S[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5220d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N]CC[C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0472b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CCC[N][C]1N1CCCC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0472a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CCC[N][C]1N1CCCC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0283a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H]1CN(C(=O)CN2CCC[N]2)CCO1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0903c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1NC(=O)[C@]2(CC[C]3CCCC[C]32)N1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0184a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](NC(=O)CN)CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1325a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C](NC(=O)[C]2CC[N]CC2)[C]2CCC[N][C]12",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0215a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CC[C]([C]2CCN[N]2)[N]C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5204a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C]2NCC[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0176b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H](N)[C]1[N][C](C[C]2CCCCC2)[N]O1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1403a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C)C[C]1CCC[C](N2CCN(C(N)=O)CC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0480a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](Br)CC[C]1C(=O)NC[C@H](C)O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0702a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COC(=O)[C@]1([C]2CC[C](C)CC2)CCNC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0587a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C[C@H]1CCOC1)[C]1[N]C[N]C[C]1Cl",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1325b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C](NC(=O)[C]2CC[N]CC2)[C]2CCC[N][C]12",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1047a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC1(C)NCC[C@@H]1[C]1CC[C](F)CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0283a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNS(=O)(=O)CC1CCCCC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0379b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](CN2[N][C](C)CCC2=O)O[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5555b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[C](C(=O)[O-])CCNC1=O",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0284b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CCCC[C]1C(N)=O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-o0319a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(NCCN[C]1CCCC[N]1)N[C]1CN([C]2CCCCC2)[N][N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1534b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@]1(CC[C]2CC[C](F)C[C]2F)NC(=O)NC1=O",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0414a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1C[N]NC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0653a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1C[C]([C@@H]2CCC[C@@H]2CO)C[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0736b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OC[C@H]1CNC[C@H]1[C]1CCCC[C]1F",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1040b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C]1CC[C]2CCCC[C]2[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1018a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(NCCN1CCCC1=O)N[C]1CCCCC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0625c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](F)CC[C]1CS(N)(=O)=O",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0411b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCCC[C]1[C]1[N][N]CO1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1037b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=S1(=O)CC(O)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1966a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1CCN(C[C]2CCC[N]C2)C1)N1CCN(C[C]2CCC[N]C2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "5f3z-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](CC(=O)O)C[C]1[C]1CCCS1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-o0340a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[C](NC(=O)NCCC[C]2[N]CN[N]2)C[N]N1[C]1CCCCC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0881b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C]2CCCC[C]2[N][C]1N",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0900a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H]1C(=O)NC(=O)N1[C]1CC[C](Cl)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1331a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)[C]1CCC[C](NC(=O)[C]2CN[N][C]2[C]2CC[N]CC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0107b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCC[C]2NCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0581b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N1CCO[C]2CCCC[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "6h80-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](CC(=O)O)C[C]1[C]1CCCS1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0264a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N][C](C)[C]([C@H](C)NC(=O)C(C)C)S1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1192a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1CCN([C]2CCCC[N]2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1070b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCS(=O)(=O)NC[C@H]1CC(=O)N([C]2CC[C](Cl)CC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "5hn0-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(O)C[C]1CC[C](O)[C]([C]2CCCCC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0910a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(NC1CC1)[C]1CCCC[C]1O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5220b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N]CC[C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0244a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)N1C[N][C]2C[C](C(=O)[O-])CC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "5f41-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](CC(=O)O)C[C]1[C]1CCSC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x2143a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[N]C[C]1N1CCN(C(N)=O)CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0379a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](CN2[N][C](C)CCC2=O)O[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5013b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N][C]2CC[C](Cl)C[C]2S1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0481c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CCCC[C]1NC[C]1CCN[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5910b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1N[C](O)[N][C]2CCS[C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0309a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](C)C[C]1NC(=O)CN",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x2155a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCC[C](S(=O)(=O)NC(=O)[C]2C[C]([C]3CC[C](C#CCO)S3)[C](OC)C[C]2OC)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1196a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1NC2(CCCC2)N[C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0264a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)N1CCN([C]2CC[C](F)CC2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0749a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C[C]1CCC[C](F)C1)S(N)(=O)=O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0858a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCC(=O)NO",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o1010a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C]1[N][C]2C[C](NC(=O)[C]3CCCN3C[C]3CCC[N]C3)CC[C]2O1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0920a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1[C](N)[N][C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0210b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=S(=O)([C]1CC[C](F)CC1)N1CCNCC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0250a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN1[C](NC(C)=O)[N][C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0258a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=S1(=O)CCCN1C[C]1CCC[C](F)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0375a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]CCN1C[C]1CCC[C](C#N)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0112a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1CC[C](OC(F)F)CN1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0471a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1C[N]NC1)N1CCOCC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0625a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](F)CC[C]1CS(N)(=O)=O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0900c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H]1C(=O)NC(=O)N1[C]1CC[C](Cl)CC1",
+            "set_fallback_to_nan": false
+        },
+        "5hmw-b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(O)C[C]1C[C](CC(=O)O)C[C]([C]2CCCCC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1041a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCCC[C]1NC(N)=S",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x2156a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCC[C](S(=O)(=O)NC(=O)[C]2C[C]([C]3CC[C](C#CCO)S3)[C](OC)C[C]2OC)C1",
+            "set_fallback_to_nan": false
+        },
+        "5hmy-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(O)C[C]1C[C](CC(=O)O)C[C]([C]2CC[C](C#CCO)S2)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1325c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C](NC(=O)[C]2CC[N]CC2)[C]2CCC[N][C]12",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1365a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N[C]1CC[C](O[C]2CCC[N]C2)C[N]1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0176a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1[C](F)CCC[C]1F)N1CCCCCC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0892c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C]1CC[C](NC2=NCCCS2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1577a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](CC[C@]2(C3CCN(C(C)=O)CC3)NC(=O)NC2=O)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1120a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C](NC(=O)[C@H]2C[C@@H]2[C]2CCCCC2)[N]C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1628a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1C[N]C[C](NC[C]2C[N][C]3NC[N][C]3C2)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0135a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCC(=O)NC[C]1[N][N][C]2CCCCN21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0471a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C1[N]C[C]2[C](C[C@@H]3CC[C@H]2N3)[N]1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1430a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)N1CCN([C]2CCC[C](CN3CCC[N]3)C2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0594a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN(C)C(=O)CO[C]1CC[C](N)[C](F)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0351a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)[C]1CCC[C](NC(=O)N2CCOCC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0186a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C](F)[C](C(=O)N2CCN[C@H](C)C2)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1046a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1CCC[N]N1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-o0360a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C1C[N]C[C](C[C]2[N]O[C](CC[C]3CC[C]4OC[N][C]4C3)[N]2)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0264b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)N1CCN([C]2CC[C](F)CC2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0927a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1[N][C](C(F)(F)F)C[C]1O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5550a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](Cl)[C](N)[C]2CCC[N][C]12",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0659a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N1[C@@H]2CC[C@H]1[C]1CCC[N][C]1C2",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1015a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCC(=O)N[C]1CCC[C](N)[C]1C",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0184b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](NC(=O)CN)CC1",
+            "set_fallback_to_nan": false
+        },
+        "5i3q-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1C[C](C)[C](C(=O)NS(=O)(=O)[C]2CCC[C]3CCC[N][C]32)C[C]1[C]1CC[C](C#CCO)S1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0501b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CCCC[C]1CC(N)=O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0354a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N1CCN([C]2CC[C](Cl)CC2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0903b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1NC(=O)[C@]2(CC[C]3CCCC[C]32)N1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0498a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC1=NN([C]2CCCCC2)C(=O)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1073a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CCO[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5310a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCS(=O)(=O)NC[C]1[N][C]2C[C](Cl)CC[C]2N1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0249a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N[C]1CC[C](N[C]2CCCCC2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0922b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC1(C)O[C]2C[C](O)[C](Br)C[C]2C(=O)O1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0174a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCS(=O)(=O)NC[C]1CC[C]2OCO[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1534a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@]1(CC[C]2CC[C](F)C[C]2F)NC(=O)NC1=O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0437b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CCCC[C]1CNC1CCOCC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1430a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C@H]1CCN([C]2CCCC[N]2)C1)[C]1CCCN1C[C]1CCC[N]C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5013a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[N][C]2CC[C](Cl)C[C]2S1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0364a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N[C@@H]1CN[C]2CCCC[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0759a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1CC[C]2OCO[C]2C1)N1CCCCCC1",
+            "set_fallback_to_nan": false
+        },
+        "6xd0-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(C[C]1CCCC[C]1N[C]1[C](Cl)CCC[C]1Cl)NC1(C(=O)O)C[C]2CCCC[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0910b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(NC1CC1)[C]1CCCC[C]1O",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1351c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CC[C](Cl)[C]2[N]CCC[C]12)[C]1CC[N]CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0378a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#CC[C]1[N]CCN1CC(F)(F)F",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0628a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCOC(=O)[C]1C[N]NC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0764a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CS(=O)(=O)[C]1CC[C](Br)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0927b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1[N][C](C(F)(F)F)C[C]1O",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1037c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=S1(=O)CC(O)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0881a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C]2CCCC[C]2[N][C]1N",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1094a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "Br[C]1[N]CCC[N]1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x2352a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C]([C]2CCN(C[C]3CCC[N]C3)C2)C[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-o0485a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(NCCCN1CCC[N]1)N[C]1C[N]N([C]2CCCCC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0384a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCC(=O)N[C]1[N][C](C)CS1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0968a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O[C]1C[N][C]([C]2CCCCC2)[N]C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0411b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](NC(=O)N[C]2CC[N]CC2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0415a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CCC[C]([C@@H]2CCCCN2)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0103a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)NC[C]1[N]CCN1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0781a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1CCCO1)N1CCN(C(=O)C2CC2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0481a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CCCC[C]1NC[C]1CCN[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1764a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](CC[C@]2(C3CCOCC3)NC(=O)NC2=O)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0900b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H]1C(=O)NC(=O)N1[C]1CC[C](Cl)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0111a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C]1[N]CC[C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0172a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CS(=O)(=O)NC1CCCC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o1235a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(C[C]1CCC[C](F)C1)N[C]1[N]CN(C[C]2CCC[N]C2)[N]1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o1342a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(NCC[C]1CCC[N]C1)N[C]1C[N]N([C]2CCCCC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0767a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OCCN1C[C](Br)C[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0736a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OC[C@H]1CNC[C@H]1[C]1CCCC[C]1F",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1037a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=S1(=O)CC(O)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0176a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H](N)[C]1[N][C](C[C]2CCCCC2)[N]O1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0386a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C](F)C[C]1NC(=O)[C]1CC[N]CC1",
+            "set_fallback_to_nan": false
+        },
+        "5i3p-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCC[C](S(=O)(=O)NC(=O)[C]2C[C]([C]3CC[C](C#CCO)S3)[C](OC)C[C]2OC)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0279a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CC[C](NC2CCOCC2)[N]C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0615b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]C[C](CN[C]2C[N]C[C](F)C2)S1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0239b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O[C]1CC[C]2C[N]N[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0673a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COC(=O)[C@@]1(C[C]2CC[C](F)CC2)CCNC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0904a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)[C]1CC[C]2NCCC[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0376a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)N1CCN(C(=O)[C]2CCCS2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0162a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N[C]1CC[C]([C]2CS[C](N)[N]2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0153b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNS(=O)(=O)[C]1CCCC[C]1Cl",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o1454a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CC[C](CN2C[N]C[N]2)CC1)[C]1[N][N]N[C]1[C]1CCCCC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0160b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[N]N[C]1[C]1CC[N]CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0254a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C](NC(=O)[C@@H]2CCCO2)[N]C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1024a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]N(C)[C](C)[C]1CC(N)=O",
+            "set_fallback_to_nan": false
+        },
+        "5hmx-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(O)C[C]1C[C](CC(=O)O)C[C]([C]2CCCS2)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x2153b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCC[C](S(=O)(=O)NC(=O)[C]2C[C]([C]3CC[C](C#CCO)S3)[C](OC)C[C]2OC)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1687a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)N1CCN(S(=O)(=O)[C]2CCC[C](F)[C]2C(F)(F)F)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0307b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N][C]([C]2CCC[C](N)C2)[N]O1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0875b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#C[C]1CNC[N]1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x2054a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN[C]1[N][C]2NC[N][C]2[C](N[C]2CCC[C](O)C2)[N]1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1438a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@@H]1[C@H](C(=O)N2CCCC2)CCCN1C(=O)[C]1C[N]N(CC2CCCC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0323a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "Cl[C]1CCC[C]2[N]CN[C]12",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0342a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNC[C]1C[N]N([C]2CCCCC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0825a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1C[N][C]2CCC[N]N21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1089a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H](O)CNC(=O)N[C]1CCC[C]2CCC[N][C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0903a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1NC(=O)[C@]2(CC[C]3CCCC[C]32)N1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5937a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C1CC[C]([C]2CN[N][N]2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0187a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN([C]1CCCCC1)C(=O)[C@H]1CCNC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0483a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1CCN(C(=O)N[C]2CC[C](F)CC2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0041b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNC(=O)[C]1CN(C)[C]2CCCC[C]12",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0875c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#C[C]1CNC[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0920b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1[C](N)[N][C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0903d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1NC(=O)[C@]2(CC[C]3CCCC[C]32)N1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1149a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC([C]1CCCCC1)[C]1CCCCC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0612a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)N1CCN([C]2CC[C](F)CC2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1070a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCS(=O)(=O)NC[C@H]1CC(=O)N([C]2CC[C](Cl)CC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0430a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OC[C]1CCC[C]2OCCO[C]12",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0922a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC1(C)O[C]2C[C](O)[C](Br)C[C]2C(=O)O1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0993b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)[C]1CC[N][C](NC2CC=CC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0571a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1CC[N][C]1[C]1[N]O[C](C2CCC2)[N]1",
+            "set_fallback_to_nan": false
+        },
+        "5k5m-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCC[C](S(=O)(=O)NC(=O)[C]2C[C]([C]3CC[C](C#CCO)S3)[C](OC)C[C]2OC)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0549a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]C[C](CN[C]2C[N]C[C](N3C[N]C[N]3)C2)S1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-o0085b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1C[N][C](C(=O)N[C]2C[N]N([C]3CCCCC3)C2)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0160d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[N]N[C]1[C]1CC[N]CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0248a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(C)(CO)NC(=O)[C]1CCC[C](Cl)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0922c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC1(C)O[C]2C[C](O)[C](Br)C[C]2C(=O)O1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1217a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCN1C[N][C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "6ld2-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C@H]1C[C@H](OC)[C@H]([C]2CCCS2)C[C@@H]1C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x2366a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C1C[N]C[C](CN2CC[C]([C]3C[N]C[N]C3)C2)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0858b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CCC(=O)NO",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0566a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CCC[C](O[C@@H]2CCN(C)C2=O)[C]1F",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0892e_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C]1CC[C](NC2=NCCCS2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "3vws-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1O[C]2CC[C](NS(=O)(=O)[C]3CC[C](Cl)CC3)C[C]2[C]1C(=O)O",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0999a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1[N][C](C(N)=O)[C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1382a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1CN[N][C]1[C]1CC[N]CC1)N1CCN([C]2[N]CCC[N]2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0991a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CS(=O)(=O)N[C@H]1CCO[C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0764b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CS(=O)(=O)[C]1CC[C](Br)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0991b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CS(=O)(=O)N[C@@H]1CCO[C]2CCCC[C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0411a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CCCC[C]1[C]1[N][N]CO1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0892b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C]1CC[C](NC2=NCCCS2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-o0085a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1C[N][C](C(=O)N[C]2C[N]N([C]3CCCCC3)C2)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1655a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]C[C](CN[C]2C[N]C[C]([C]3CCCCC3)C2)S1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0153a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNS(=O)(=O)[C]1CCCC[C]1Cl",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0812a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C1CCC(=O)N1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0617a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]C[C](CN[C]2[N]N[C]3CC[C](F)C[C]32)S1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0418a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC1=NN([C]2CCC[C](N)C2)C(=O)C1",
+            "set_fallback_to_nan": false
+        },
+        "6izz-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)O[C]1CC[C]2OC(=O)S[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0253a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]N(C)[C](C)[C]1NS(=O)(=O)[C]1CCC[C](F)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0207a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H](CO)N(C)[C]1[N]C[C](Cl)C[N]1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0160a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[N]N[C]1[C]1CC[N]CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0625b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[C](F)CC[C]1CS(N)(=O)=O",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0239a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O[C]1CC[C]2C[N]N[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5544a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[N][C]2[C](Cl)CC[C](N)[C]12",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5555a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1[C](C(=O)[O-])CCNC1=O",
+            "set_fallback_to_nan": false
+        },
+        "5f3t-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](CC(=O)O)C[C]1[C]1CCCCC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0789a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC1=NN([C]2CCC[C](N)C2)C(=O)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0052a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OCCN1CCOCC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1351a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CC[C](Cl)[C]2[N]CCC[C]12)[C]1CC[N]CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0496b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C]([C]2[N][C](N)S[C]2C)C[C]1C",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0825b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NS(=O)(=O)[C]1C[N][C]2CCC[N]N21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0685a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]C[C](CN[C]2C[N]C[C](C(C)C)C2)S1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0423a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C1CC[C](CN2CC[N]C2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0898a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1CCCC[C]1F)N1CCNCC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o1509a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CC[C](OC(F)F)CC1)[C]1CCCN1C[C]1CCC[N]C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0165a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CN1CCC[C]2CC[C](S(N)(=O)=O)C[C]21",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0160c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1C[N]N[C]1[C]1CC[N]CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0503a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COC1CN(S(=O)(=O)N2CCCC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0843a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H](N)[C]1CC[C](NC(=O)C2CC2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0288a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNC(=O)[C]1C[N][C](C)S1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0892d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[C]1CC[C](NC2=NCCCS2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0136a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N[C]1CCC[C]2CCN[C]21",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5007a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([O-])[C]1C[C]2OCC[C]2N1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0479a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=S1(=O)CCN(C[C]2CCCO2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0875a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#C[C]1CNC[N]1",
+            "set_fallback_to_nan": false
+        },
+        "6izx-a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)O[C]1CC[C]2OC(=O)S[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0481b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "F[C]1CCCC[C]1NC[C]1CCN[N]1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0615a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1[N]C[C](CN[C]2C[N]C[C](F)C2)S1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0486b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CCCCC1)N[C]1CCC[N]C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0620a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC[NH+]1CCN([C]2C[N]C[C](NC[C]3C[N][C](C)S3)C2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0693a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#C[C]1CC[C](CN2C[N][C]3CCCC[C]32)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0651a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "COC(=O)[C@]1([C]2CC[C](F)CC2)CCCNC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x2332a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C([C]1CCC[C](N2CCC[C@H](C(=O)N3CCCC3)C2)C1)N1CCCCC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-o0105a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CN([C]2CCCCC2)[N][N]1)[C]1[N]CCC[C]1O[C]1CCCCC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0191a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C1C[N]C[C](CN2CCCC2)C1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x2003a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "NC(=O)N1CCN([C]2CCC[C](CN3CCC[N]3)C2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1348a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(N[C]1CCCCC1)[C]1CN[N][C]1[C]1CC[N]CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1722a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "OC[C@]1(O)CCCN([C]2[N]C[C](Cl)C[N]2)C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0041a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNC(=O)[C]1CN(C)[C]2CCCC[C]12",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x5317a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CC[C](NC(=O)C[C@H](O)[C]2CCCCC2)[N]C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0211b_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H](O)CNC(=O)N[C]1CCCCC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0771a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(CCC1CCCCC1)N1CCOCC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0875d_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N#C[C]1CNC[N]1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0428a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)NCC1(O)CCCC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0411a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CO[C]1CC[C](NC(=O)N[C]2CC[N]CC2)CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0756a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "I[C]1C[N]NC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x1597a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "O=C(NC[C]1CS[N][N]1)[C]1CN[N][C]1[C]1CC[N]CC1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0637a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C]1CCC[C](NC[C@H]2CCNC2)[N]1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0581a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CC(=O)N1CCO[C]2CCCC[C]2C1",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x1170a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H](NC(=O)N[C]1CCC[C]2NCC[C]21)[C@H](O)C(F)F",
+            "set_fallback_to_nan": false
+        },
+        "ZIKV-RdRp-x0211a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "C[C@H](O)CNC(=O)N[C]1CCCCC1",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-x0153c_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "CNS(=O)(=O)[C]1CCCC[C]1Cl",
+            "set_fallback_to_nan": false
+        },
+        "DENV2-RdRp-o0459a_1": {
+            "conformer_gen_strategy": "default",
+            "fallback_conformer_pdb_id": null,
+            "canonical_smiles": "N[C]1CCC[C]2NC[N][C]12",
+            "set_fallback_to_nan": false
+        }
+    }
+}
