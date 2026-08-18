@@ -32,6 +32,14 @@ Files include the following info:
 
 `train_val_cache/`: directory containing information for the train/val splits used for fine-tuning
 
+### Trainign set similarities
+
+tsv files containing training set similarity values are in the `training_set_similarity/` directory.
+
+Similarity info for test/evaluation structures are named as: `tsv_similarity_{system_id}_{training_cutoff}_eval.tsv`
+
+Analogous information for all structures can be found in: `training_set_similarity/all_similarities/`
+
 
 ### Update MSA info for your installation
 
@@ -39,4 +47,5 @@ If you wish to run cofolding predictions yourself, update OF3 query jsons with p
 ```
 python3 util_Py_update_msa_path.py -j=EV71_2A_Protease/job_of3_EV71-2A-Protease_inputs.json -m=EV71_2A_Protease/msa_inputs/msa_A/ -o=job_of3_EV71-2A-Protease_inputs_updated.json
 ```
+
 
